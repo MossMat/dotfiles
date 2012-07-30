@@ -1,0 +1,5 @@
+ #include "/home/mossmat/.colors/.jwr-colors"
+ urxvt*font: -*-proggytiny-*-*-*-*-10-*-*-*-*-*-*-*
+ urxvt*boldFont: -*-proggytiny-*-*-*-*-10-*-*-*-*-*-*-*
+ urxvt*scrollBar: off
+
